@@ -2,24 +2,29 @@
 MyAnimeList-Esque Database
 
 Files in Repo:
-  query_methods.py
-    * Query Class with different methods (queries)
-    * Application will use these to retrieve information from database
-  DataTableDisplay.py
-    * Front End application, uses Tinker to display myanimelist 2.0 local website
-  Main.py
-    * Main driver, will initiate Tinker website
+  query_methods.py -
+  * Query Class with different methods (queries)
+  * Application will use these to retrieve information from database
+  DataTableDisplay.py -
+  * Front End application, uses Tinker to display myanimelist 2.0 local website
+  Main.py -
+  * Main driver, will initiate Tinker website
 
 Software/Packages Requirements:
   Lanuages: 
   * Python 3
   * MySQL
-  Packages Used: pymysql, tkinter, DateEntry from tkcalendar, default dict from collections (ADD MORE AS WE WORK ON IT)
+  Packages Used:
+  * pymysql
+  * tkinter
+  * DateEntry from tkcalendar
+  * default dict from collections
+ 
 Pip installs:
-  python3 -m pip install PyMySQL
-  pip install tkcalendar
-  tkinter should already be installed
-  collections should already be installed
+  * python3 -m pip install PyMySQL
+  * pip install tkcalendar
+  * tkinter should already be installed
+  * collections should already be installed
  
  
 Running the program:
