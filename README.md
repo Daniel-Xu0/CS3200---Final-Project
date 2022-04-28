@@ -29,7 +29,7 @@ Pip installs:
   * collections should already be installed
  
  
-Running the program:
+Running the program: <br/>
 IMPORTANT: BEFORE EXECUTING THE PROGRAM, MAKE SURE TO CHANGE THE SQL CONNECTION LOGIN INFORMATION IN THE CODE FIRST (LINE 130 OF MAIN.PY)
 When the program is executed, the user will be introduced to a login screen. At first, the user will not have an account, and therefore need to hit the register button. Hitting the register button will open a seperate Register window where the user can create an account through entering a unique username, password, a unique email, and their date of birth. 
 After the account has been registered, it will be stored in a SQL table within the database and now the user can have access to the program. Upon entering valid login information, the user will be taken to a seperate GUI where they can see animes on their watched and to-watch list (both of whcih are tables in our database), their email, date of birth, and current status (which they can update/modify using the GUI). 
