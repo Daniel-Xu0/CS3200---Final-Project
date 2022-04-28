@@ -5,8 +5,10 @@ Files in Repo:
   query_methods.py -
   * Query Class with different methods (queries)
   * Application will use these to retrieve information from database
+ 
   DataTableDisplay.py -
   * Front End application, uses Tinker to display myanimelist 2.0 local website
+
   Main.py -
   * Main driver, will initiate Tinker website
 
