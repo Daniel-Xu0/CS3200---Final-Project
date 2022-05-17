@@ -1,5 +1,5 @@
 # CS3200---Final-Project
-MyAnimeList-Esque Database
+Anime Database
 
 Files in Repo:
 * query_methods.py -
